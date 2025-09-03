@@ -1,3 +1,3 @@
 # al-shifa-demo
 This is my First Repository
-Author - Samia Manzoor
+Author - Samia Manzoor (Academy)
